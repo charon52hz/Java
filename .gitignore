@@ -1,0 +1,3 @@
+# Project exclude paths
+/juc/target/
+/out/
